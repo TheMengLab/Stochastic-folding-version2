@@ -1,0 +1,1548 @@
+23 288114 303641
+1 1 24926
+19 265954 271866
+10 168043 181596
+12 195098 208483
+18 258146 265953
+11 181597 195097
+17 250026 258145
+21 278170 282982
+20 271867 278169
+7 123370 139283
+8 139284 153920
+15 230736 240989
+14 220001 230735
+13 208484 220000
+2 24927 49246
+16 240990 250025
+4 69050 88165
+3 49247 69049
+6 106258 123369
+5 88166 106257
+9 153921 168042
+22 282983 288113
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	13m3.225s
+user	8m45.996s
+sys	0m0.296s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	15m7.907s
+user	10m3.184s
+sys	0m0.112s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	19m26.176s
+user	13m32.366s
+sys	0m0.152s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	21m53.950s
+user	15m22.875s
+sys	0m0.168s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	32m47.752s
+user	24m12.559s
+sys	0m0.188s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	34m49.718s
+user	26m13.528s
+sys	0m0.196s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	41m30.014s
+user	32m40.736s
+sys	0m0.283s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	51m35.779s
+user	42m9.946s
+sys	0m0.319s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	55m45.687s
+user	46m3.054s
+sys	0m0.287s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	62m15.967s
+user	52m39.024s
+sys	0m0.288s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	77m20.101s
+user	68m5.137s
+sys	0m0.272s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	79m30.984s
+user	70m0.304s
+sys	0m0.379s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	80m23.472s
+user	71m1.517s
+sys	0m0.376s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	82m6.917s
+user	72m49.911s
+sys	0m0.272s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	87m51.073s
+user	77m47.680s
+sys	0m0.284s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	95m29.392s
+user	86m20.397s
+sys	0m0.404s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	96m8.944s
+user	86m47.008s
+sys	0m0.368s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	102m49.786s
+user	93m39.292s
+sys	0m0.432s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	109m30.132s
+user	99m28.204s
+sys	0m0.300s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	115m49.764s
+user	106m33.681s
+sys	0m0.568s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	122m46.784s
+user	113m36.083s
+sys	0m0.344s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	150m51.567s
+user	141m26.361s
+sys	0m0.504s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	157m20.078s
+user	148m3.998s
+sys	0m0.688s
+2 24927 49246
+7 123370 139283
+5 88166 106257
+6 106258 123369
+23 288114 303641
+22 282983 288113
+12 195098 208483
+16 240990 250025
+19 265954 271866
+10 168043 181596
+3 49247 69049
+13 208484 220000
+1 1 24926
+11 181597 195097
+4 69050 88165
+21 278170 282982
+20 271867 278169
+9 153921 168042
+18 258146 265953
+8 139284 153920
+17 250026 258145
+15 230736 240989
+14 220001 230735
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	12m40.689s
+user	8m43.887s
+sys	0m0.104s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	14m17.983s
+user	9m57.779s
+sys	0m0.104s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	18m55.507s
+user	13m25.153s
+sys	0m0.132s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	21m35.021s
+user	15m26.560s
+sys	0m0.144s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	32m18.540s
+user	24m8.456s
+sys	0m0.280s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	34m42.681s
+user	26m14.302s
+sys	0m0.172s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	41m40.016s
+user	32m39.561s
+sys	0m0.351s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	51m27.445s
+user	42m14.338s
+sys	0m0.343s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	55m27.206s
+user	46m30.293s
+sys	0m0.263s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	61m46.088s
+user	53m7.071s
+sys	0m0.384s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	77m4.797s
+user	68m2.763s
+sys	0m0.471s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	77m34.067s
+user	69m1.583s
+sys	0m0.376s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	78m26.444s
+user	69m9.697s
+sys	0m0.336s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	85m4.416s
+user	75m32.383s
+sys	0m0.312s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	87m22.940s
+user	78m19.114s
+sys	0m0.328s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	94m47.835s
+user	85m45.950s
+sys	0m0.440s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	96m7.357s
+user	86m52.434s
+sys	0m0.404s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	103m18.838s
+user	94m0.410s
+sys	0m0.400s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	109m24.098s
+user	100m35.095s
+sys	0m0.803s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	117m2.285s
+user	107m51.968s
+sys	0m0.336s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	119m57.302s
+user	110m49.034s
+sys	0m2.038s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	150m36.420s
+user	142m3.381s
+sys	0m0.596s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	158m12.988s
+user	149m10.720s
+sys	0m0.456s
+9 153921 168042
+8 139284 153920
+17 250026 258145
+1 1 24926
+14 220001 230735
+16 240990 250025
+2 24927 49246
+20 271867 278169
+6 106258 123369
+13 208484 220000
+23 288114 303641
+18 258146 265953
+4 69050 88165
+12 195098 208483
+11 181597 195097
+22 282983 288113
+5 88166 106257
+7 123370 139283
+10 168043 181596
+19 265954 271866
+15 230736 240989
+3 49247 69049
+21 278170 282982
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	13m26.253s
+user	8m49.969s
+sys	0m0.180s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	14m57.438s
+user	10m1.003s
+sys	0m0.200s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	20m13.383s
+user	13m33.957s
+sys	0m0.161s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	22m21.478s
+user	15m27.829s
+sys	0m0.283s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	33m7.281s
+user	24m18.188s
+sys	0m0.308s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	35m41.894s
+user	26m22.708s
+sys	0m0.359s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	42m58.049s
+user	32m56.641s
+sys	0m0.391s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	52m52.587s
+user	42m18.825s
+sys	0m0.587s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	57m53.954s
+user	46m43.604s
+sys	0m0.604s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	64m22.920s
+user	53m37.591s
+sys	0m0.542s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	82m7.846s
+user	71m7.138s
+sys	0m1.326s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	83m24.908s
+user	72m7.653s
+sys	0m1.365s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	83m44.328s
+user	72m25.836s
+sys	0m1.453s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	88m38.075s
+user	77m12.079s
+sys	0m2.175s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	92m50.169s
+user	81m45.229s
+sys	0m1.614s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	98m21.262s
+user	86m51.951s
+sys	0m1.479s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	101m0.744s
+user	89m40.210s
+sys	0m1.726s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	108m1.695s
+user	96m45.349s
+sys	0m1.441s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	113m37.009s
+user	102m55.020s
+sys	0m1.870s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	121m52.200s
+user	110m46.483s
+sys	0m1.886s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	125m31.635s
+user	114m0.500s
+sys	0m4.538s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	153m59.697s
+user	142m27.752s
+sys	0m2.033s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	163m38.218s
+user	152m34.427s
+sys	0m1.652s
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: ls: cannot access '../conf/[1-9]*.dat'cannot access '../conf/[1-9]*.dat': No such file or directory
+: No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat'ls: : No such file or directorycannot access '../conf/[1-9]*.dat'
+: No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+ls: cannot access '../conf/[1-9]*.dat': No such file or directory
+20 271867 278169
+17 250026 258145
+14 220001 230735
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+3 49247 69049
+18 258146 265953
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+9 153921 168042
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+7 123370 139283
+16 240990 250025
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+1 1 24926
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.003s
+user	0m0.001s
+sys	0m0.000s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+2 24927 49246
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.003s
+user	0m0.001s
+sys	0m0.000s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+21 278170 282982
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.000s
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+23 288114 303641
+8 139284 153920
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.002s
+user	0m0.001s
+sys	0m0.000s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+15 230736 240989
+13 208484 220000
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.000s
+user	0m0.001s
+sys	0m0.000s
+10 168043 181596
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+6 106258 123369
+19 265954 271866
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+12 195098 208483
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+11 181597 195097
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+22 282983 288113
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+4 69050 88165
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.000s
+sys	0m0.001s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.000s
+user	0m0.001s
+sys	0m0.000s
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.001s
+user	0m0.001s
+sys	0m0.000s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.000s
+user	0m0.001s
+sys	0m0.000s
+5 88166 106257
+head: cannot open '../conf/1.dat' for reading: No such file or directory
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	0m0.000s
+user	0m0.001s
+sys	0m0.000s
+1 1 24926
+temp.sh: line 7: 30730 Done                    echo -e filelist_chr${id}.dat '\n' ${atomnum} '\n' targetid_chr${id}.dat '\n' 4 '\n' 100 '\n' matrix4_chr${id}_norm_top100.dat
+     30731 Killed                  | ./getcontactmatrix_dark_noneigh_norm_topline.o
+
+real	0m11.770s
+user	0m11.658s
+sys	0m0.112s
+5 88166 106257
+9 153921 168042
+8 139284 153920
+12 195098 208483
+10 168043 181596
+11 181597 195097
+14 220001 230735
+4 69050 88165
+3 49247 69049
+7 123370 139283
+20 271867 278169
+15 230736 240989
+19 265954 271866
+13 208484 220000
+2 24927 49246
+23 288114 303641
+22 282983 288113
+6 106258 123369
+21 278170 282982
+1 1 24926
+16 240990 250025
+17 250026 258145
+18 258146 265953
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	12m28.736s
+user	8m26.672s
+sys	0m0.120s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	13m30.229s
+user	9m38.823s
+sys	0m0.080s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	18m15.388s
+user	12m57.068s
+sys	0m0.108s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	20m31.967s
+user	14m45.351s
+sys	0m0.140s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	31m4.158s
+user	23m16.277s
+sys	0m0.116s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	32m45.088s
+user	25m10.761s
+sys	0m0.160s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	40m8.285s
+user	31m27.992s
+sys	0m0.347s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	49m10.294s
+user	40m34.851s
+sys	0m0.279s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	52m57.389s
+user	44m30.034s
+sys	0m0.248s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	59m36.918s
+user	50m55.368s
+sys	0m0.268s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	74m0.459s
+user	65m43.601s
+sys	0m0.308s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	74m58.522s
+user	66m19.628s
+sys	0m0.328s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	75m32.770s
+user	67m10.750s
+sys	0m0.371s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	80m11.474s
+user	71m33.836s
+sys	0m0.284s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	84m1.830s
+user	75m10.733s
+sys	0m0.356s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	89m55.844s
+user	81m16.463s
+sys	0m0.316s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	92m3.672s
+user	83m33.149s
+sys	0m0.260s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	98m33.017s
+user	90m27.490s
+sys	0m0.288s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	105m25.352s
+user	97m1.443s
+sys	0m0.316s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	111m0.220s
+user	102m7.564s
+sys	0m0.312s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	115m13.303s
+user	106m50.320s
+sys	0m0.464s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	147m24.060s
+user	138m43.337s
+sys	0m0.492s
+Input the filename for filelist of original coordinate:
+Input the number of atoms in this system:
+Input filename for target atomlist(start from 1):
+Input the cutoff for contact dist(with radius of 10):
+Input the value for top linenum:
+Input filename for output:
+4.000000 16.000000
+test
+
+real	150m52.530s
+user	142m40.810s
+sys	0m0.364s
